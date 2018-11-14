@@ -5,3 +5,4 @@ node_modules
 Example
 *.jpg
 
+.idea/

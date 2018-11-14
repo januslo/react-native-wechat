@@ -6,3 +6,7 @@ node_modules
 
 # ios
 ios/build
+
+#editor
+.idea/
+

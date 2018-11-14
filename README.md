@@ -1,3 +1,11 @@
+## This repository is clone and modified from https://github.com/yorkie/react-native-wechat to ensure last Wechat SDK and miniprogram supports.
+
+## installation:
+```bash
+npm install @janus/react-native-wechat --save
+
+```
+
 <img height="200" src="./weixin.png?raw=true">
 
 # React-Native-Wechat

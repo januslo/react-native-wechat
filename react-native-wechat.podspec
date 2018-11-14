@@ -7,17 +7,17 @@
 #
 
 Pod::Spec.new do |s|
-  s.name         = "react-native-wechat"
+  s.name         = "@januslo/react-native-wechat"
   s.version      = "1.9.10"
   s.summary      = "React-Native(iOS/Android) functionalities include WeChat Login, Share, Favorite and Payment {QQ: 336021910}"
   s.description  = <<-DESC
   React-Native(iOS/Android) functionalities include WeChat Login, Share, Favorite and Payment {QQ: 336021910}
    DESC
-  s.author       = { "weflex" => "336021910@qq.com" }
-  s.homepage     = "https://github.com/weflex/react-native-wechat"
+  s.author       = { "januslo" => "januslo6211@icloud.com" }
+  s.homepage     = "https://github.com/januslol/react-native-wechat"
   s.license      = "MIT"
   s.platform     = :ios, "9.0"
-  s.source       = { :git => "https://github.com/weflex/react-native-wechat.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/januslo/react-native-wechat.git", :tag => "master" }
   s.source_files  = "ios/*.{h,m}"
   s.dependency "React"
   s.vendored_libraries = "ios/libWeChatSDK.a"
